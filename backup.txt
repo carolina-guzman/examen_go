@@ -1,0 +1,12 @@
+caro se ha conectado 
+juan se ha conectado 
+pedro se ha conectado 
+caro: hola!
+juan: como estan?
+pedro: super bien
+juan: ok
+Recibido: requirements.txt
+caro: adios
+carose ha desconectado
+juanse ha desconectado
+pedrose ha desconectado
